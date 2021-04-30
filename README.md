@@ -1,2 +1,2 @@
 # parc_bit
- this is class PARC
+This is software for PARC
