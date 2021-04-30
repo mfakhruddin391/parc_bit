@@ -1,7 +1,7 @@
 <?php 
 
-//simple e-wallet
-
+//simple e-wallet 2.0
+$fund = 10000;
 $balance =2.0;
 
 $hundredplus = 2.0;
@@ -33,6 +33,9 @@ switch($mainMenu){
         break;
     case "exit" :
         print("Game will exit");
+        break;
+    case "Multiplayer" :
+        print("Multiplayer page");
         break;
     default :
         print "error!";
